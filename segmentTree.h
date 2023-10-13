@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 class Segtree{
+    public:
     int size;
  
     vector<int> sums;
